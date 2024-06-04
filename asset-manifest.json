@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SHappyTravel/static/css/main.d1b21e46.css",
-    "main.js": "/SHappyTravel/static/js/main.266f485e.js",
+    "main.css": "/SHappyTravel/static/css/main.968b60fb.css",
+    "main.js": "/SHappyTravel/static/js/main.d83683b8.js",
     "static/js/453.6a0db807.chunk.js": "/SHappyTravel/static/js/453.6a0db807.chunk.js",
     "static/media/night.jpg": "/SHappyTravel/static/media/night.b9be7cc4b52bc7dd840f.jpg",
     "static/media/Jukdo Sanghwa Garden.jpeg": "/SHappyTravel/static/media/Jukdo Sanghwa Garden.55d3daaa58f0cb5f7eef.jpeg",
@@ -11,6 +11,7 @@
     "static/media/jeju.jpg": "/SHappyTravel/static/media/jeju.96d07aeaad4c5d50bfc9.jpg",
     "static/media/header-img1.jpg": "/SHappyTravel/static/media/header-img1.688485da2e89bb063e5a.jpg",
     "static/media/Cherry Blossoms in Miryang.jpg": "/SHappyTravel/static/media/Cherry Blossoms in Miryang.ff7e78677082016a14fd.jpg",
+    "static/media/beach-6292382_1280.jpg": "/SHappyTravel/static/media/beach-6292382_1280.92bce92d8282b6a06d77.jpg",
     "static/media/Pohang Slow Ocean Hidden Forest.jpg": "/SHappyTravel/static/media/Pohang Slow Ocean Hidden Forest.9a5cc8bc766c051c040d.jpg",
     "static/media/bedroom-5772286_1280.jpg": "/SHappyTravel/static/media/bedroom-5772286_1280.3493930f4f3ca2241667.jpg",
     "static/media/header-img2.jpg": "/SHappyTravel/static/media/header-img2.2d4a2b3f7e329e15dddd.jpg",
@@ -20,12 +21,12 @@
     "static/media/busan.jpg": "/SHappyTravel/static/media/busan.eab6cf49800e09f129d6.jpg",
     "static/media/Masan.jpg": "/SHappyTravel/static/media/Masan.0d64e0f98732ed82d5f8.jpg",
     "index.html": "/SHappyTravel/index.html",
-    "main.d1b21e46.css.map": "/SHappyTravel/static/css/main.d1b21e46.css.map",
-    "main.266f485e.js.map": "/SHappyTravel/static/js/main.266f485e.js.map",
+    "main.968b60fb.css.map": "/SHappyTravel/static/css/main.968b60fb.css.map",
+    "main.d83683b8.js.map": "/SHappyTravel/static/js/main.d83683b8.js.map",
     "453.6a0db807.chunk.js.map": "/SHappyTravel/static/js/453.6a0db807.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1b21e46.css",
-    "static/js/main.266f485e.js"
+    "static/css/main.968b60fb.css",
+    "static/js/main.d83683b8.js"
   ]
 }
