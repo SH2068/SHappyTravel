@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SHappyTravel/static/css/main.968b60fb.css",
-    "main.js": "/SHappyTravel/static/js/main.d83683b8.js",
+    "main.js": "/SHappyTravel/static/js/main.16a5434d.js",
     "static/js/453.6a0db807.chunk.js": "/SHappyTravel/static/js/453.6a0db807.chunk.js",
     "static/media/night.jpg": "/SHappyTravel/static/media/night.b9be7cc4b52bc7dd840f.jpg",
     "static/media/Jukdo Sanghwa Garden.jpeg": "/SHappyTravel/static/media/Jukdo Sanghwa Garden.55d3daaa58f0cb5f7eef.jpeg",
@@ -22,11 +22,11 @@
     "static/media/Masan.jpg": "/SHappyTravel/static/media/Masan.0d64e0f98732ed82d5f8.jpg",
     "index.html": "/SHappyTravel/index.html",
     "main.968b60fb.css.map": "/SHappyTravel/static/css/main.968b60fb.css.map",
-    "main.d83683b8.js.map": "/SHappyTravel/static/js/main.d83683b8.js.map",
+    "main.16a5434d.js.map": "/SHappyTravel/static/js/main.16a5434d.js.map",
     "453.6a0db807.chunk.js.map": "/SHappyTravel/static/js/453.6a0db807.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.968b60fb.css",
-    "static/js/main.d83683b8.js"
+    "static/js/main.16a5434d.js"
   ]
 }
