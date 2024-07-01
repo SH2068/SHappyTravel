@@ -1,32 +1,25 @@
 {
   "files": {
-    "main.css": "/SHappyTravel/static/css/main.968b60fb.css",
-    "main.js": "/SHappyTravel/static/js/main.20c2f473.js",
-    "static/js/453.6a0db807.chunk.js": "/SHappyTravel/static/js/453.6a0db807.chunk.js",
+    "main.css": "/SHappyTravel/static/css/main.a37ded36.css",
+    "main.js": "/SHappyTravel/static/js/main.19598733.js",
     "static/media/night.jpg": "/SHappyTravel/static/media/night.b9be7cc4b52bc7dd840f.jpg",
     "static/media/Jukdo Sanghwa Garden.jpeg": "/SHappyTravel/static/media/Jukdo Sanghwa Garden.55d3daaa58f0cb5f7eef.jpeg",
-    "static/media/Sogeumsan Mountain in Wonju.jpg": "/SHappyTravel/static/media/Sogeumsan Mountain in Wonju.8277e7db2c9de95a7fe8.jpg",
     "static/media/Marin.jpg": "/SHappyTravel/static/media/Marin.40f8e5c1d9872275bc96.jpg",
-    "static/media/Seongeup Folk Village.jpg": "/SHappyTravel/static/media/Seongeup Folk Village.82fd48ea4f927ec92bbe.jpg",
-    "static/media/jeju.jpg": "/SHappyTravel/static/media/jeju.96d07aeaad4c5d50bfc9.jpg",
-    "static/media/header-img1.jpg": "/SHappyTravel/static/media/header-img1.688485da2e89bb063e5a.jpg",
     "static/media/Cherry Blossoms in Miryang.jpg": "/SHappyTravel/static/media/Cherry Blossoms in Miryang.ff7e78677082016a14fd.jpg",
-    "static/media/beach-6292382_1280.jpg": "/SHappyTravel/static/media/beach-6292382_1280.92bce92d8282b6a06d77.jpg",
-    "static/media/Pohang Slow Ocean Hidden Forest.jpg": "/SHappyTravel/static/media/Pohang Slow Ocean Hidden Forest.9a5cc8bc766c051c040d.jpg",
-    "static/media/bedroom-5772286_1280.jpg": "/SHappyTravel/static/media/bedroom-5772286_1280.3493930f4f3ca2241667.jpg",
-    "static/media/header-img2.jpg": "/SHappyTravel/static/media/header-img2.2d4a2b3f7e329e15dddd.jpg",
-    "static/media/Gyeongju Opus 11 Pool Villa.jpg": "/SHappyTravel/static/media/Gyeongju Opus 11 Pool Villa.e6aba36618cbacb69a8f.jpg",
-    "static/media/header-img3.jpg": "/SHappyTravel/static/media/header-img3.c1b665616a3637339720.jpg",
+    "static/media/pool.jpg": "/SHappyTravel/static/media/pool.81327185a76b46ad30cd.jpg",
     "static/media/gyeongju.jpg": "/SHappyTravel/static/media/gyeongju.74300bab79a3dd8e40ac.jpg",
     "static/media/busan.jpg": "/SHappyTravel/static/media/busan.eab6cf49800e09f129d6.jpg",
     "static/media/Masan.jpg": "/SHappyTravel/static/media/Masan.0d64e0f98732ed82d5f8.jpg",
+    "static/media/slick.svg": "/SHappyTravel/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SHappyTravel/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SHappyTravel/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SHappyTravel/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/SHappyTravel/index.html",
-    "main.968b60fb.css.map": "/SHappyTravel/static/css/main.968b60fb.css.map",
-    "main.20c2f473.js.map": "/SHappyTravel/static/js/main.20c2f473.js.map",
-    "453.6a0db807.chunk.js.map": "/SHappyTravel/static/js/453.6a0db807.chunk.js.map"
+    "main.a37ded36.css.map": "/SHappyTravel/static/css/main.a37ded36.css.map",
+    "main.19598733.js.map": "/SHappyTravel/static/js/main.19598733.js.map"
   },
   "entrypoints": [
-    "static/css/main.968b60fb.css",
-    "static/js/main.20c2f473.js"
+    "static/css/main.a37ded36.css",
+    "static/js/main.19598733.js"
   ]
 }
