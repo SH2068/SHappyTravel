@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/SHappyTravel/static/css/main.a37ded36.css",
-    "main.js": "/SHappyTravel/static/js/main.19598733.js",
+    "main.css": "/SHappyTravel/static/css/main.cd2ac1ca.css",
+    "main.js": "/SHappyTravel/static/js/main.6ae0451b.js",
     "static/media/night.jpg": "/SHappyTravel/static/media/night.b9be7cc4b52bc7dd840f.jpg",
     "static/media/Jukdo Sanghwa Garden.jpeg": "/SHappyTravel/static/media/Jukdo Sanghwa Garden.55d3daaa58f0cb5f7eef.jpeg",
     "static/media/Marin.jpg": "/SHappyTravel/static/media/Marin.40f8e5c1d9872275bc96.jpg",
     "static/media/Cherry Blossoms in Miryang.jpg": "/SHappyTravel/static/media/Cherry Blossoms in Miryang.ff7e78677082016a14fd.jpg",
+    "static/media/beach-6292382_1280.jpg": "/SHappyTravel/static/media/beach-6292382_1280.92bce92d8282b6a06d77.jpg",
     "static/media/pool.jpg": "/SHappyTravel/static/media/pool.81327185a76b46ad30cd.jpg",
     "static/media/gyeongju.jpg": "/SHappyTravel/static/media/gyeongju.74300bab79a3dd8e40ac.jpg",
     "static/media/busan.jpg": "/SHappyTravel/static/media/busan.eab6cf49800e09f129d6.jpg",
+    "static/media/Just Glamping.jpg": "/SHappyTravel/static/media/Just Glamping.8accb9c2d46b4eef8b21.jpg",
     "static/media/Masan.jpg": "/SHappyTravel/static/media/Masan.0d64e0f98732ed82d5f8.jpg",
     "static/media/slick.svg": "/SHappyTravel/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/SHappyTravel/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/SHappyTravel/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/SHappyTravel/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/SHappyTravel/index.html",
-    "main.a37ded36.css.map": "/SHappyTravel/static/css/main.a37ded36.css.map",
-    "main.19598733.js.map": "/SHappyTravel/static/js/main.19598733.js.map"
+    "main.cd2ac1ca.css.map": "/SHappyTravel/static/css/main.cd2ac1ca.css.map",
+    "main.6ae0451b.js.map": "/SHappyTravel/static/js/main.6ae0451b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a37ded36.css",
-    "static/js/main.19598733.js"
+    "static/css/main.cd2ac1ca.css",
+    "static/js/main.6ae0451b.js"
   ]
 }
