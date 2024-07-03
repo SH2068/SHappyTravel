@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SHappyTravel/static/css/main.cd2ac1ca.css",
+    "main.css": "/SHappyTravel/static/css/main.e80076c0.css",
     "main.js": "/SHappyTravel/static/js/main.6ae0451b.js",
     "static/media/night.jpg": "/SHappyTravel/static/media/night.b9be7cc4b52bc7dd840f.jpg",
     "static/media/Jukdo Sanghwa Garden.jpeg": "/SHappyTravel/static/media/Jukdo Sanghwa Garden.55d3daaa58f0cb5f7eef.jpeg",
@@ -17,11 +17,11 @@
     "static/media/slick.ttf": "/SHappyTravel/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/SHappyTravel/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/SHappyTravel/index.html",
-    "main.cd2ac1ca.css.map": "/SHappyTravel/static/css/main.cd2ac1ca.css.map",
+    "main.e80076c0.css.map": "/SHappyTravel/static/css/main.e80076c0.css.map",
     "main.6ae0451b.js.map": "/SHappyTravel/static/js/main.6ae0451b.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd2ac1ca.css",
+    "static/css/main.e80076c0.css",
     "static/js/main.6ae0451b.js"
   ]
 }
